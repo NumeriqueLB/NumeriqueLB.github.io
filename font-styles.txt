@@ -1,0 +1,4 @@
+<link href="https://fonts.googleapis.com/css?family=Fjalla+One|Inconsolata" rel="stylesheet">
+
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Inconsolata', monospace;
